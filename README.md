@@ -98,6 +98,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Ali Raza Khan Banner" style="width: 90%;" />
+</p>
+
 ---
 
 <h3 align="center">🏆 Achievements</h3>
