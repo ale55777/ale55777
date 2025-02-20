@@ -99,7 +99,7 @@
 
 ---
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Ali Raza Khan Banner" style="width: 90%;" />
+  <img src="https://github.com/ale55777/ale55777/blob/main/Ali.png" alt="Ali Raza Khan Banner" style="width: 90%;" />
 </p>
 
 ---
