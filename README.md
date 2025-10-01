@@ -7,15 +7,23 @@
 
 ---
 
-🌟 **About Me** 🌟  
-- 🔭 Currently working on **React.js**  
-- 🌱 Exploring the **MERN** stack  
-- 👯 Looking to collaborate on **TensorFlow** projects  
-- 🤝 Seeking guidance in **DevOps**  
-- 👨‍💻 Check out all my projects at [My GitHub](https://github.com/ale55777)  
-- 📫 Reach me at **malirazakhan55777@gmail.com**  
-- ⚡ Fun fact: **I like Bugs!** 🐛  
+🌟 About Me 🌟
 
+🔭 Currently working on React.js
+
+🌱 Exploring the MERN Stack
+
+👯 Looking to collaborate on TensorFlow projects
+
+🤝 Seeking guidance in DevOps
+
+👨‍💻 Check out all my projects on 💻 GitHub
+
+🌐 Explore my portfolio at 🌟 My Portfolio
+
+📫 Reach me at ✉️ malirazakhan55777@gmail.com
+
+⚡ Fun fact: I like Bugs! 🐛
 ---
 
 <h3 align="center">💻 Connect with Me</h3>
