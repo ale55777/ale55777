@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ali Raza Khan</h1>
-<h3 align="center">Passionate Web Application Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">Passionate AI Engineer & Web Application Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ale55777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
