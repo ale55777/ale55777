@@ -57,14 +57,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <a href="https://github.com/ale55777">
-    <img src="https://github-readme-stats.vercel.app/api?username=ale55777&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 90%; margin-bottom: 20px;" />
-  </a>
-  <a href="https://github.com/ale55777">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale55777&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=8" alt="Top Languages" style="width: 90%;" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://github.com/ale55777/ale55777/blob/main/Ali.png" alt="Ali Raza Khan Banner" style="width: 90%;" />
