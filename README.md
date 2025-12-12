@@ -70,22 +70,8 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ale55777&theme=buddhism" alt="GitHub Trophies" style="width: 90%;" />
-</p>
+
 
 ---
 
-## 🚀 Let's Connect!
-I'm always open to **collaborations, discussions, and mentorship**.  
-Feel free to **explore, fork, or contribute** to my projects.  
 
-<p align="center">
-  <a href="mailto:malirazakhan55777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ali-farooq-khan-89666b236">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
