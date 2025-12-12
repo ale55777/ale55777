@@ -60,8 +60,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ale55777&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 90%; margin-bottom: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ale55777&show_icons=true&layout=compact&theme=radical&langs_count=8" alt="Top Languages" style="width: 90%;" />
+ 
 </p>
 
 <p align="center">
