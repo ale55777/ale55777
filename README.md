@@ -187,14 +187,6 @@ const aliRazaKhan = {
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-ale55777.vercel.app/api/spotify)](https://open.spotify.com/user/Ali-Farooq-Khan)
-
-</div>
-
 ---
 
 <div align="center">
