@@ -151,14 +151,6 @@ const aliRazaKhan = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ale55777&repo=your-amazing-project&theme=tokyonight&hide_border=true)](https://github.com/ale55777)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ale55777&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/ale55777)
-
-</div>
 
 ---
 
