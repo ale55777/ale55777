@@ -27,7 +27,7 @@ const aliRazaKhan = {
     currentFocus: ["React.js", "Next.js", "MERN Stack"],
     learning: ["Advanced AI/ML", "DevOps", "System Design"],
     interests: ["TensorFlow", "Cloud Computing", "Open Source"],
-    funFact: "I debug for fun! 🐛 → 🦋",
+    funFact: "I debug for fun!",
     lifePhilosophy: "Code. Learn. Innovate. Repeat."
 };
 ```
