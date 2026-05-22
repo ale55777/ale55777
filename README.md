@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Raza%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🚀 AI Engineer | Full-Stack Developer | M E R N 
+### 🚀 AI Engineer | M E R N 
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3F9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Solutions+with+AI;MERN+Stack+%7C+Next.js+%7C+TensorFlow;Passionate+About+Clean+Code+%26+Innovation;From+Pakistan+🇵🇰+with+Code+❤️" alt="Typing SVG" />
