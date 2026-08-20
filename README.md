@@ -2,16 +2,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Raza%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🚀 AI Engineer | M E R N 
+### 🚀 Full-Stack MERN Engineer | AI & ML Engineer
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3F9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Solutions+with+AI;MERN+Stack+%7C+Next.js+%7C+TensorFlow;Passionate+About+Clean+Code+%26+Innovation;From+Pakistan+🇵🇰+with+Code+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3F9EF7&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent%2C+Scalable+Web+Apps;MERN+Stack+%7C+Next.js+%7C+LLM+Integration;Computer+Vision%3A+YOLOv8+%7C+BLIP-2+%7C+EfficientNet;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+with+Code+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ale55777&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ale55777?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
 </p>
 
 </div>
@@ -22,40 +22,49 @@
 
 ```typescript
 const aliRazaKhan = {
-    location: "Pakistan 🇵🇰",
-    role: "AI Engineer & Full-Stack Developer",
-    currentFocus: ["React.js", "Next.js", "MERN Stack"],
-    learning: ["Advanced AI/ML", "DevOps", "System Design"],
-    interests: ["TensorFlow", "Cloud Computing", "Open Source"],
+    location: "Islamabad, Pakistan 🇵🇰",
+    role: "MERN-Stack & AI Developer @ Webscare Technologies",
+    education: "BSCS, FAST NUCES / Riphah International University",
+    currentFocus: ["React.js", "Next.js", "Node.js", "LLM Integration"],
+    aiToolkit: ["Groq", "Gemini", "OpenAI", "EfficientNet-B0", "YOLOv8", "BLIP-2"],
+    learning: ["System Design", "Advanced DevOps", "Cloud Architecture"],
     funFact: "I debug for fun!",
     lifePhilosophy: "Code. Learn. Innovate. Repeat."
 };
 ```
+
+<p align="center">
+  <b>Full-Stack MERN Engineer & AI/ML Engineer</b> with 3+ years of experience building scalable web applications, integrating large language models, and deploying computer vision pipelines — currently shipping full-stack + AI solutions at <b>Webscare Technologies</b>, Pakistan.
+</p>
 
 <table align="center">
 <tr>
 <td width="50%">
 
 ### 🔭 What I'm Up To
-- 🎨 Crafting modern web apps with **React.js** & **Next.js**
-- 🧠 Building AI solutions with **TensorFlow** & **Python**
-- 🌐 Mastering the **MERN Stack** ecosystem
-- ☁️ Exploring **DevOps** & cloud architectures
-- 🤝 Open to collaborate on **AI/ML projects**
+- 🧠 Building AI agents with **Groq** & **Gemini** APIs at Webscare Technologies
+- 🎨 Crafting responsive apps with **React.js** & **Next.js**
+- 👁️ Engineering computer vision pipelines (**YOLOv8**, **BLIP-2**, **SSIM**)
+- 🌐 Architecting secure REST APIs with **Node.js** & **JWT**
+- 🤝 Open to collaborate on **AI/ML** & full-stack projects
 
 </td>
 <td width="50%">
 
 ### 💡 Quick Facts
-- 🎓 Passionate about **Machine Learning**
-- 🏗️ Building scalable **full-stack** applications
-- 📚 Continuous learner & tech blogger
-- 🎯 Love solving complex problems
-- 🌟 Contributing to open source
+- 🎓 BSCS 
+- 🏗️ Built AI-powered SaaS platforms end-to-end, from architecture to deployment
+- 📚 Cisco-certified in Python, Linux, JavaScript & Cybersecurity
+- 🎯 3+ years turning ideas into production-ready code
+- 🌟 Passionate about bridging clean UX with robust backend architecture
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Currently-Full--Stack%20%2B%20AI%20Development-3F9EF7?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -72,6 +81,7 @@ const aliRazaKhan = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </details>
 
@@ -81,19 +91,26 @@ const aliRazaKhan = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b>🤖 AI/ML & Computer Vision</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+`EfficientNet-B0` · `YOLOv8` · `BLIP-2` · `SSIM` · Model Training · Data Preprocessing
 
 </details>
 
@@ -103,6 +120,8 @@ const aliRazaKhan = {
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -118,36 +137,19 @@ const aliRazaKhan = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ale55777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale55777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ale55777&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ale55777&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ale55777&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
-
----
-
 
 ---
 
@@ -159,10 +161,8 @@ const aliRazaKhan = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirazakhan.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malirazakhan55777@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ale55777)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 </div>
-
 
 ---
 
@@ -176,17 +176,13 @@ const aliRazaKhan = {
 
 ---
 
----
-
 <div align="center">
 
-### 💡 *"The only way to do great work is to love what you do"* - Steve Jobs
+### 💡 *"The only way to do great work is to love what you do"* — Steve Jobs
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-
----
 
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/ale55777">Ali Raza Khan</a> with ❤️</sub>
