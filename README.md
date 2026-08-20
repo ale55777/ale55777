@@ -24,7 +24,7 @@
 const aliRazaKhan = {
     location: "Islamabad, Pakistan 🇵🇰",
     role: "MERN-Stack & AI Developer @ Webscare Technologies",
-    education: "BSCS, FAST NUCES / Riphah International University",
+    education: "BSCS, FAST NUCES",
     currentFocus: ["React.js", "Next.js", "Node.js", "LLM Integration"],
     aiToolkit: ["Groq", "Gemini", "OpenAI", "EfficientNet-B0", "YOLOv8", "BLIP-2"],
     learning: ["System Design", "Advanced DevOps", "Cloud Architecture"],
